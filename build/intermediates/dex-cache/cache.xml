@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\TestCode\DOkHttp-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\TestCode\DOkHttp-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_6ea76cb48df8fdcfe300d2f7722760292537b4e8.jar" />
+    </item>
+    <item
+        jar="D:\gradle-2.10\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\TestCode\DOkHttp-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_22dc48536602f7491bfcc0bc7ab8c2121a10f5d3.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\DOkHttp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\TestCode\DOkHttp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_2a5efea34e7c7a12fc8426ac24b91d3febc64ece.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\DOkHttp-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\TestCode\DOkHttp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_88508a77acbf9284ba662adc59c8438583c855dd.jar" />
+    </item>
+    <item
+        jar="D:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\TestCode\DOkHttp-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_4f90701538f12971a7b2387037bbbe1e949e61f8.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\DOkHttp-master\app\build\intermediates\exploded-aar\com.daemon.library\dokhttp\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a1223593d4b490a0d89fc66374d61fbeae8f8a7">
+        <dex dex="D:\TestCode\DOkHttp-master\app\build\intermediates\pre-dexed\debug\com.daemon.library-dokhttp-1.0.0_772088b1d863bbbb8ee9a7db92f5711fb619c58d.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\TestCode\DOkHttp-master\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        jar="D:\gradle-2.10\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\TestCode\DOkHttp-master\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_d3e9d9e557a48b39e4fa17ca55353c2057fc5b04.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\DOkHttp-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\TestCode\DOkHttp-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_98f08bfe12fc05b99e65b1b0461efc21204d2673.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\DOkHttp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\TestCode\DOkHttp-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_4ae9e6a8ef11c1c3c93e67e5f25def1f89fa304a.jar" />
+    </item>
+
+</items>
